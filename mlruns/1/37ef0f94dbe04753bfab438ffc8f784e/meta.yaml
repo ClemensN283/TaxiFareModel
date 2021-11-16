@@ -1,0 +1,15 @@
+artifact_uri: file:///home/clemens/code/ClemensN283/TaxiFareModel/mlruns/1/37ef0f94dbe04753bfab438ffc8f784e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 37ef0f94dbe04753bfab438ffc8f784e
+run_uuid: 37ef0f94dbe04753bfab438ffc8f784e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1637090212280
+status: 1
+tags: []
+user_id: unknown
